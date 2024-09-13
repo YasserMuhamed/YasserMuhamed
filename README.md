@@ -6,7 +6,7 @@
 
 <h2 align="left">connect with me</h2>
 <p align="center">
-<a href="linkedin.com/in/yasser-mohamed-5390392a4"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/yasser-mohamed-5390392a4"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/yasser.muhammed.7070/"><img src="https://img.shields.io/badge/facebook-%230866FF?style=flat&logo=facebook&logoColor=white"/></a>
 <a href="https://t.me/pi314000"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
 <a href="https://twitter.com/yassermohame0?s=21&t=5QzEL92aoy4RbqQ4wmbq3w"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=X&logoColor=white"/></a>
